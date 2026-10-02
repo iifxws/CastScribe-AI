@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:03,000
+Should clearly fail rather than produce silent video
+
+2
+00:00:00,000 --> 00:00:10,000
+Clip With Missing Audio
+

@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,000
+Why this changes everything
+
+2
+00:00:00,000 --> 00:00:10,714
+Why this changes everything in
+
+3
+00:00:10,714 --> 00:00:15,000
+content creation
+

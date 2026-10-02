@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,000
+Does this clip have sound?
+
+2
+00:00:00,000 --> 00:00:05,000
+Testing whether audio is
+
+3
+00:00:05,000 --> 00:00:10,000
+properly rendered and audible
+

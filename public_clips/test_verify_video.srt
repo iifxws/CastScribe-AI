@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,000
+Working seamlessly now
+
+2
+00:00:00,000 --> 00:00:03,571
+Testing real video cut working
+
+3
+00:00:03,571 --> 00:00:05,000
+seamlessly now
+

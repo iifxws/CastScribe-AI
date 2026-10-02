@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:03,000
+Stop charging 9 a month. It signals low quality.
+
+2
+00:00:00,000 --> 00:00:01,666
+If your software saves an
+
+3
+00:00:01,666 --> 00:00:03,333
+agency 20 hours a month,
+
+4
+00:00:03,333 --> 00:00:05,000
+charging 9 signals low quality.
+

@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:03,000
+Stop charging 9 a month. It signals low quality.
+
+2
+00:00:00,000 --> 00:00:02,888
+[00:00] We initially priced
+
+3
+00:00:02,888 --> 00:00:05,777
+it at $19 a
+
+4
+00:00:05,777 --> 00:00:08,666
+month. That was embarrassing.
+
+5
+00:00:08,666 --> 00:00:11,555
+We were burning out.
+
+6
+00:00:11,555 --> 00:00:13,000
+A mentor
+

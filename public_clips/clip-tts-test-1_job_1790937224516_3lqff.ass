@@ -1,0 +1,16 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Sans,50,&H00FFFFFF,&H0000D7FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3,2,2,60,60,180,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.35,Default,,0,0,0,,{\k59}On {\k59}Christmas {\k59}Day {\k59}in
+Dialogue: 0,0:00:02.35,0:00:04.70,Default,,0,0,0,,{\k59}1991, {\k59}the {\k59}Soviet {\k59}flag
+Dialogue: 0,0:00:04.70,0:00:07.05,Default,,0,0,0,,{\k59}was {\k59}lowered {\k59}over {\k59}the
+Dialogue: 0,0:00:07.05,0:00:09.41,Default,,0,0,0,,{\k59}Kremlin {\k59}for {\k59}the {\k59}final
+Dialogue: 0,0:00:09.41,0:00:10.00,Default,,0,0,0,,{\k59}time.

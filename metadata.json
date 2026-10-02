@@ -1,0 +1,6 @@
+{
+  "name": "CastScribe AI",
+  "description": "Transform audio and video recordings into complete, ready-to-publish content suites: transcripts, blog articles, show notes, multi-platform social posts, and newsletters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
